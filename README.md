@@ -6,7 +6,7 @@
   
 <h2>📺 Certifications</h2>
 
-
+- [Google Technical Support Fundamentals](https://imgur.com/a/frbEyNK)
 
 <h2> 🤳 Connect with me:</h2>
 
