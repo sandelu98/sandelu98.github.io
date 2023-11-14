@@ -2,13 +2,17 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/sandelu98/LABURL)
 - [Weather Appclication v.1](https://github.com/sandelu98/weather_app)
 - [Expense Tracker v.1](https://github.com/sandelu98/expense_tracker_v1)
  
 <h2>📺 Certifications</h2>
 
 - [Google Technical Support Fundamentals](https://imgur.com/a/frbEyNK)
+- Currently working on my CompTia A+ certificate.
+  
+<h2> 🔭 I’m currently working on:</h2>
+Improving my overall knowledge and competence within the realm of IT, 
+whether it's programming, network, or cybersecurity-related.
 
 <h2> 🤳 Connect with me:</h2>
 
