@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/sandelu98/LABURL)
 - [Weather Appclication v.1](https://github.com/sandelu98/weather_app)
-- [Expense Tracker v.1](https://github.com/sandelu98/weather_app)
+- [Expense Tracker v.1](https://github.com/sandelu98/expense_tracker_v1)
  
 <h2>📺 Certifications</h2>
 
