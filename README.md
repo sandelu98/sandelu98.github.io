@@ -7,7 +7,7 @@
  
 <h2>📺 Certifications</h2>
 
-- [Google Technical Support Fundamentals](https://imgur.com/a/frbEyNK)
+- [Google Technical Support Fundamentals](https://coursera.org/share/5d4b9497d81ba41aa5dbff157653bd12)
 - Currently working on my CompTia A+ certificate.
   
 <h2> 🔭 I’m currently working on:</h2>
