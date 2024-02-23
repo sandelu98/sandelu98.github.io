@@ -4,7 +4,7 @@
 
 - [Weather Appclication v.1](https://github.com/sandelu98/weather_app)
 - [Expense Tracker v.1](https://github.com/sandelu98/expense_tracker_v1)
- 
+- [Configuration fil for CS2](https://github.com/sandelu98/cs2config)
 <h2>📺 Certifications</h2>
 
 - [Google Technical Support Fundamentals](https://coursera.org/share/5d4b9497d81ba41aa5dbff157653bd12)
